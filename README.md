@@ -1,2 +1,2 @@
-# Mamadou-SOC Analyst portfolio
+# SOC Analyst portfolio
 Hands-on SOC analysis project, Lab investigations, and cybersecurity documentation 
